@@ -4,6 +4,7 @@
 
   // These tasks can be run from CodeSandbox. Running one will open a log in the app.
   "tasks": {
+
     "App": {
       "name": "running application",
       "command": "cd backend && yarn && cd ./frontend && yarn && yarn run dev",
