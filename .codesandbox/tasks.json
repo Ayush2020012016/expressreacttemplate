@@ -2,6 +2,7 @@
   "setupTasks": [],
 
   "tasks": {
+
     "App": {
       "name": "running application",
       "command": "cd backend && yarn && cd ../frontend && yarn && yarn run dev",
