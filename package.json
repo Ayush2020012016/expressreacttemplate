@@ -1,0 +1,11 @@
+{
+  "name": "codesandbox",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Ayush2020012016/expressreacttemplate.git",
+  "author": "Ayush2020012016 <ayush.2020012016@tulas.edu.in>",
+  "license": "MIT",
+  "scripts": {
+    "start": "cd backend && yarn && cd ../frontend && yarn && yarn run dev"
+  }
+}
