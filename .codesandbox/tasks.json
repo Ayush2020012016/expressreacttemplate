@@ -6,7 +6,7 @@
   "tasks": {
     "cd frontend yarn run dev": {
       "name": "cd frontend yarn run dev",
-      "command": "cd frontend yarn run dev",
+      "command": "cd frontend && yarn run dev",
       "runAtStart": true
     }
   }

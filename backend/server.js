@@ -6,7 +6,7 @@ app.use(express.json())
 
 
 app.get('/',(req,res)=>{
-    res.send("this yes man is the message to you that you are at the port.")
+    res.send(" this is the  port.")
 })
 
 app.listen(port,()=>{console.log(`server started at port ${port}`)})
