@@ -1,0 +1,10 @@
+{
+    "$schema": "https://codesandbox.io/schemas/tasks.json",
+    "tasks": {
+      "frontend": {
+        "name": "frontend",
+        "command": ["cd frontend","yarn run dev"],
+        "runAtStart": true
+      }
+    }
+  }
